@@ -1,0 +1,22 @@
+{
+    "format": 1,
+    "modules": [
+        {
+            "name": "WorkLog",
+            "title": "Work Log",
+            "description": "Jot down what you just did in a few seconds, and find it again later. Only you can see it.",
+            "author": "Kevin Bruce",
+            "repository": "Pluggin-Software/worklog",
+            "thumbnail": null,
+            "versions": [
+                {
+                    "version": "1.1.0",
+                    "tag": "v1.1.0",
+                    "sha256": "1c876bb84d4b9066b1d6e1744465a887bccaf053bc192aad74f42490f1b893ba",
+                    "core": "2.99.0",
+                    "requires": []
+                }
+            ]
+        }
+    ]
+}
