@@ -2,6 +2,23 @@
     "format": 1,
     "modules": [
         {
+            "name": "ContactForm",
+            "title": "Contact Form",
+            "description": "Build contact forms for your site's pages and read every message in one inbox, with spam set aside for you to judge.",
+            "author": "Kevin Bruce",
+            "repository": "Pluggin-Software/contactform",
+            "thumbnail": null,
+            "versions": [
+                {
+                    "version": "1.0.9",
+                    "tag": "v1.0.9",
+                    "sha256": "633f17e6db49f2b22abc0f1b62807aa0a5efa14aecbc11016e134f89e0590b91",
+                    "core": "2.99.0",
+                    "requires": []
+                }
+            ]
+        },
+        {
             "name": "WorkLog",
             "title": "Work Log",
             "description": "Jot down what you just did in a few seconds, and find it again later. Only you can see it.",
