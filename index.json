@@ -53,6 +53,23 @@
             ]
         },
         {
+            "name": "Today",
+            "title": "Today",
+            "description": "A dashboard widget that shows your day at a glance: your meetings and bookings, when you're busy, and how long until your next thing.",
+            "author": "Kevin Bruce",
+            "repository": "Pluggin-Software/today",
+            "thumbnail": null,
+            "versions": [
+                {
+                    "version": "1.0.4",
+                    "tag": "v1.0.4",
+                    "sha256": "2f5a46b63d354df11dfa8de7bba73d104f42f5a9c9b2f6b7ced64292caa3106b",
+                    "core": "2.99.0",
+                    "requires": []
+                }
+            ]
+        },
+        {
             "name": "WorkLog",
             "title": "Work Log",
             "description": "Jot down what you just did in a few seconds, and find it again later. Only you can see it.",
