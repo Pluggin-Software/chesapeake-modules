@@ -19,6 +19,23 @@
             ]
         },
         {
+            "name": "Helpdesk",
+            "title": "Help Desk",
+            "description": "Let people ask for help from a page or the dashboard, and give your agents one queue to claim, answer, hand off and resolve each ticket.",
+            "author": "Kevin Bruce",
+            "repository": "Pluggin-Software/helpdesk",
+            "thumbnail": null,
+            "versions": [
+                {
+                    "version": "2.2.11",
+                    "tag": "v2.2.11",
+                    "sha256": "954a0f16f010484fcbcfc88bbc6baae98490b963d9681acdba3fd378bde6a87f",
+                    "core": "2.99.0",
+                    "requires": []
+                }
+            ]
+        },
+        {
             "name": "PortfolioSite",
             "title": "Portfolio",
             "description": "Show a body of work on a page, grouped into categories, each piece with its picture and an optional link out.",
