@@ -19,6 +19,40 @@
             ]
         },
         {
+            "name": "PortfolioSite",
+            "title": "Portfolio",
+            "description": "Show a body of work on a page, grouped into categories, each piece with its picture and an optional link out.",
+            "author": "Kevin Bruce",
+            "repository": "Pluggin-Software/portfoliosite",
+            "thumbnail": null,
+            "versions": [
+                {
+                    "version": "1.7.2",
+                    "tag": "v1.7.2",
+                    "sha256": "ff6716432537b67fb285f1fd0fe84392412473bcbc7d2894b2b1815e3bbc2b01",
+                    "core": "2.99.0",
+                    "requires": []
+                }
+            ]
+        },
+        {
+            "name": "Resume",
+            "title": "Resume",
+            "description": "A resume page built from a profile and its entries, imported from a LinkedIn data export and edited by hand.",
+            "author": "Kevin Bruce",
+            "repository": "Pluggin-Software/resume",
+            "thumbnail": null,
+            "versions": [
+                {
+                    "version": "1.1.2",
+                    "tag": "v1.1.2",
+                    "sha256": "d5546650685c6197ff32ee323f7977f04f41d1346c133010c8b26fd1ae48b11a",
+                    "core": "2.99.0",
+                    "requires": []
+                }
+            ]
+        },
+        {
             "name": "WorkLog",
             "title": "Work Log",
             "description": "Jot down what you just did in a few seconds, and find it again later. Only you can see it.",
